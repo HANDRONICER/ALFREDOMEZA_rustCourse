@@ -1,0 +1,4 @@
+About
+Clone of the repository: "https://github.com/alfredodeza/rust-setup", 
+that has a course in coursera to learn rust: "https://coursera.org/share/4a17e7830de9e602f8a35517515afcfd"
+The original autor is "Alfredo Meza"
